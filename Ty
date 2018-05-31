@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- LISTA DE CANALES --
+https://www.nibbletv.info/
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- www.NibbleTV.info --
+https://www.nibbletv.info/
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",DONAR en NibbleTV.info/Donar
+https://www.nibbletv.info/Donar
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- ABIERTOS --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/america-tv.png" group-title="ABIERTOS",America TV
+https://live.nibbletv.info/CH/fsgJdFnSJTf/America-TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/antena-3.png" group-title="ABIERTOS",Antena 3
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Antena-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/azteca-13.png" group-title="ABIERTOS",Azteca 13
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Azteca-13.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/azteca-7.png" group-title="ABIERTOS",Azteca 7
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Azteca-7.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/canal-26.png" group-title="ABIERTOS",Canal 26
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Canal-26.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/el-nueve.png" group-title="ABIERTOS",El Nueve
+https://live.nibbletv.info/CH/fsgJdFnSJTf/El-Nueve.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/el-trece.png" group-title="ABIERTOS",El Trece
+https://live.nibbletv.info/CH/fsgJdFnSJTf/El-Trece.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/eldoce-cordoba.png" group-title="ABIERTOS",ElDoce Cordoba
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ElDoce-Cordoba.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/encuentro.png" group-title="ABIERTOS",Encuentro
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Encuentro.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tv-publica.png" group-title="ABIERTOS",TV Publica
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TV-Publica.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/telefe.png" group-title="ABIERTOS",Telefe
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Telefe.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/telemundo.png" group-title="ABIERTOS",Telemundo
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Telemundo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- DEPORTES --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/beinsports.png" group-title="DEPORTES",BeinSports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/BeinSports.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="DEPORTES",Claro Sports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Claro-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/deportv.png" group-title="DEPORTES",DeporTV
+https://live.nibbletv.info/CH/fsgJdFnSJTf/DeporTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/directv-sports.png" group-title="DEPORTES",DirecTV Sports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/DirecTV-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png" group-title="DEPORTES",TyC Sports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TyC-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn.png" group-title="DEPORTES",ESPN
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-2.png" group-title="DEPORTES",ESPN 2
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-3.png" group-title="DEPORTES",ESPN 3
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-mx.png" group-title="DEPORTES",ESPN MX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-MX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-2-mx.png" group-title="DEPORTES",ESPN 2 MX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-2-MX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-3-mx.png" group-title="DEPORTES",ESPN 3 MX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-3-MX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports.png" group-title="DEPORTES",Fox Sports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-2.png" group-title="DEPORTES",Fox Sports 2
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-3.png" group-title="DEPORTES",Fox Sports 3
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-mx.png" group-title="DEPORTES",Fox Sports MX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-MX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-2-mx.png" group-title="DEPORTES",Fox Sports 2 MX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-2-MX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png" group-title="DEPORTES",Fox Sports Premium
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-Premium.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tnt-sports.png" group-title="DEPORTES",TNT Sports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TNT-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/movistar-futbol.png" group-title="DEPORTES",Movistar Futbol
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Movistar-Futbol.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/movistar-f1.png" group-title="DEPORTES",Movistar F1
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Movistar-F1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/garage-tv.png" group-title="DEPORTES",Garage TV
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Garage-TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/ufc-network.png" group-title="DEPORTES",UFC Network
+https://live.nibbletv.info/CH/fsgJdFnSJTf/UFC-Network.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/win-sports.png" group-title="DEPORTES",Win Sports
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Win-Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- EVENTOS --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",Austria vs Rusia | Amistoso Internacional 2018 en DIRECTO | 15:45hs (Argentina GTM-3)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Austria-vs-Rusia-%7C-Amistoso-Internacional-2018-en-DIRECTO-%7C-15%3A45hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Argentina 4 Haiti 0 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Argentina-4-Haiti-0-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Peru 2 Escocia 0 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Peru-2-Escocia-0-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Mexico 0 Gales 0 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Mexico-0-Gales-0-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Estados Unidos 3 Bolivia 0 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Estados-Unidos-3-Bolivia-0-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Francia 2 Irlanda 0 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Francia-2-Irlanda-0-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Italia 2 Arabia Saudita 1 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Italia-2-Arabia-Saudita-1-%7C-Amistoso-Internacional-2018.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/evento.png" group-title="EVENTOS",RESUMEN: Portugal 2 Tunez 2 | Amistoso Internacional 2018
+https://live.nibbletv.info/CH/fsgJdFnSJTf/RESUMEN%3A-Portugal-2-Tunez-2-%7C-Amistoso-Internacional-2018.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- INFANTILES --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/boomerang.png" group-title="INFANTILES",Boomerang
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/cartoon-network.png" group-title="INFANTILES",Cartoon Network
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cartoon-Network.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/discovery-kids.png" group-title="INFANTILES",Discovery Kids
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Discovery-Kids.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/disney-channel.png" group-title="INFANTILES",Disney Channel
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Disney-Channel.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/disney-xd.png" group-title="INFANTILES",Disney XD
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Disney-XD.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/nickelodeon.png" group-title="INFANTILES",Nickelodeon
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/paka-paka.png" group-title="INFANTILES",Paka Paka
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Paka-Paka.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tooncast.png" group-title="INFANTILES",Tooncast
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Tooncast.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- 24/7 --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Alf
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Alf.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Bob Esponja
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Bob-Esponja.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Chespirito
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Chespirito.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Dragon Ball Z
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Dragon-Ball-Z.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",El Chavo del 8
+https://live.nibbletv.info/CH/fsgJdFnSJTf/El-Chavo-del-8.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",El Coyote y El Correcaminos
+https://live.nibbletv.info/CH/fsgJdFnSJTf/El-Coyote-y-El-Correcaminos.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",El Pajaro Loco
+https://live.nibbletv.info/CH/fsgJdFnSJTf/El-Pajaro-Loco.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Futurama
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Futurama.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Los Simpsons
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Los-Simpsons.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Los Tres Chiflados
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Los-Tres-Chiflados.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Pinky y Cerebro
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Pinky-y-Cerebro.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Scooby Doo
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Scooby-Doo.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/24-7.png" group-title="24/7",Tom y Jerry
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Tom-y-Jerry.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- CULTURA --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/animal-planet.png" group-title="CULTURA",Animal Planet
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/discovery-channel.png" group-title="CULTURA",Discovery Channel
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Discovery-Channel.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/history-channel.png" group-title="CULTURA",History Channel
+https://live.nibbletv.info/CH/fsgJdFnSJTf/History-Channel.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/h2.png" group-title="CULTURA",H2
+https://live.nibbletv.info/CH/fsgJdFnSJTf/H2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/natgeo.png" group-title="CULTURA",NatGeo
+https://live.nibbletv.info/CH/fsgJdFnSJTf/NatGeo.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/natgeo-wild.png" group-title="CULTURA",NatGeo Wild
+https://live.nibbletv.info/CH/fsgJdFnSJTf/NatGeo-Wild.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tlc.png" group-title="CULTURA",TLC
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-life.png" group-title="CULTURA",Fox Life
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Life.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/el-gourmet.png" group-title="CULTURA",El Gourmet
+https://live.nibbletv.info/CH/fsgJdFnSJTf/El-Gourmet.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/investigation-discovery.png" group-title="CULTURA",Investigation Discovery
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Investigation-Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- ENTRETENIMIENTO --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/amc.png" group-title="ENTRETENIMIENTO",AMC
+https://live.nibbletv.info/CH/fsgJdFnSJTf/AMC.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN
+https://live.nibbletv.info/CH/fsgJdFnSJTf/AXN.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/cinecanal.png" group-title="ENTRETENIMIENTO",Cinecanal
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cinecanal.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/cinemax.png" group-title="ENTRETENIMIENTO",Cinemax
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/de-pelicula.png" group-title="ENTRETENIMIENTO",De Pelicula
+https://live.nibbletv.info/CH/fsgJdFnSJTf/De-Pelicula.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/e!-entertainment-television.png" group-title="ENTRETENIMIENTO",E! Entertainment Television
+https://live.nibbletv.info/CH/fsgJdFnSJTf/E%21-Entertainment-Television.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fx.png" group-title="ENTRETENIMIENTO",FX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/FX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox.png" group-title="ENTRETENIMIENTO",FOX
+https://live.nibbletv.info/CH/fsgJdFnSJTf/FOX.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-action.png" group-title="ENTRETENIMIENTO",Fox Action
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Action.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-cinema.png" group-title="ENTRETENIMIENTO",Fox Cinema
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hbo.png" group-title="ENTRETENIMIENTO",HBO
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hbo-2.png" group-title="ENTRETENIMIENTO",HBO 2
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HBO-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hbo-family.png" group-title="ENTRETENIMIENTO",HBO Family
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HBO-Family.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/space.png" group-title="ENTRETENIMIENTO",Space
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Space.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/studio-universal.png" group-title="ENTRETENIMIENTO",Studio Universal
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Studio-Universal.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/comedy-central.png" group-title="ENTRETENIMIENTO",Comedy Central
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Comedy-Central.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tcm.png" group-title="ENTRETENIMIENTO",TCM
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TCM.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tnt.png" group-title="ENTRETENIMIENTO",TNT
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TNT.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tnt-series.png" group-title="ENTRETENIMIENTO",TNT Series
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TNT-Series.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/warner-channel.png" group-title="ENTRETENIMIENTO",Warner Channel
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Warner-Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- MUSICA --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hit-tv.png" group-title="MUSICA",HIT TV
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HIT-TV.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/mtv.png" group-title="MUSICA",MTV
+https://live.nibbletv.info/CH/fsgJdFnSJTf/MTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/vh1.png" group-title="MUSICA",VH1
+https://live.nibbletv.info/CH/fsgJdFnSJTf/VH1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/music-choice-pop-latino.png" group-title="MUSICA",Music Choice Pop Latino
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Music-Choice-Pop-Latino.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/music-choice-tropicales.png" group-title="MUSICA",Music Choice Tropicales
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Music-Choice-Tropicales.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/music-choice-urban.png" group-title="MUSICA",Music Choice Urban
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Music-Choice-Urban.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/reggaeton-hits.png" group-title="MUSICA",Reggaeton Hits
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Reggaeton-Hits.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/rock-nacional-tv.png" group-title="MUSICA",Rock Nacional TV
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Rock-Nacional-TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- RADIOS --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/radios.png" group-title="RADIOS",Cuarteto
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cuarteto.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/radios.png" group-title="RADIOS",La 100
+https://live.nibbletv.info/CH/fsgJdFnSJTf/La-100.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/radios.png" group-title="RADIOS",Radio Clarin
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Radio-Clarin.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/radios.png" group-title="RADIOS",Reggaeton Hits
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Reggaeton-Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- HD --
+http://www.NibbleTV.info/
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/america-tv.png" group-title="HD",America TV (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/America-TV-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/antena-3.png" group-title="HD",Antena 3 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Antena-3-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/azteca-7.png" group-title="HD",Azteca 7 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Azteca-7-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/canal-26.png" group-title="HD",Canal 26 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Canal-26-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/telefe.png" group-title="HD",Telefe (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Telefe-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/telemundo.png" group-title="HD",Telemundo (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Telemundo-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/beinsports.png" group-title="HD",BeinSports (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/BeinSports-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="HD",Claro Sports (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Claro-Sports-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png" group-title="HD",TyC Sports (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TyC-Sports-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn.png" group-title="HD",ESPN (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-2.png" group-title="HD",ESPN 2 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-2-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-3.png" group-title="HD",ESPN 3 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/ESPN-3-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports.png" group-title="HD",Fox Sports (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-2.png" group-title="HD",Fox Sports 2 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-2-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-3.png" group-title="HD",Fox Sports 3 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-3-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png" group-title="HD",Fox Sports Premium (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Sports-Premium-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tnt-sports.png" group-title="HD",TNT Sports (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TNT-Sports-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/movistar-f1.png" group-title="HD",Movistar F1 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Movistar-F1-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/boomerang.png" group-title="HD",Boomerang (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Boomerang-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/cartoon-network.png" group-title="HD",Cartoon Network (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cartoon-Network-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/discovery-kids.png" group-title="HD",Discovery Kids (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Discovery-Kids-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/disney-channel.png" group-title="HD",Disney Channel (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Disney-Channel-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/bob-esponja.png" group-title="HD",Bob Esponja (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Bob-Esponja-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/dragon-ball-z.png" group-title="HD",Dragon Ball Z (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Dragon-Ball-Z-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/futurama.png" group-title="HD",Futurama (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Futurama-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/animal-planet.png" group-title="HD",Animal Planet (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Animal-Planet-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/discovery-channel.png" group-title="HD",Discovery Channel (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Discovery-Channel-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/history-channel.png" group-title="HD",History Channel (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/History-Channel-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/natgeo-wild.png" group-title="HD",NatGeo Wild (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/NatGeo-Wild-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-life.png" group-title="HD",Fox Life (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Life-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/investigation-discovery.png" group-title="HD",Investigation Discovery (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Investigation-Discovery-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/amc.png" group-title="HD",AMC (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/AMC-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="HD",AXN (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/AXN-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/cinecanal.png" group-title="HD",Cinecanal (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cinecanal-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/cinemax.png" group-title="HD",Cinemax (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Cinemax-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/de-pelicula.png" group-title="HD",De Pelicula (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/De-Pelicula-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fx.png" group-title="HD",FX (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/FX-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox.png" group-title="HD",FOX (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/FOX-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-action.png" group-title="HD",Fox Action (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Action-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/fox-cinema.png" group-title="HD",Fox Cinema (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Fox-Cinema-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hbo.png" group-title="HD",HBO (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HBO-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hbo-2.png" group-title="HD",HBO 2 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HBO-2-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/hbo-family.png" group-title="HD",HBO Family (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/HBO-Family-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/space.png" group-title="HD",Space (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Space-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/comedy-central.png" group-title="HD",Comedy Central (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Comedy-Central-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tcm.png" group-title="HD",TCM (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TCM-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tnt.png" group-title="HD",TNT (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TNT-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tnt-series.png" group-title="HD",TNT Series (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/TNT-Series-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/warner-channel.png" group-title="HD",Warner Channel (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Warner-Channel-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/vh1.png" group-title="HD",VH1 (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/VH1-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/music-choice-pop-latino.png" group-title="HD",Music Choice Pop Latino (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Music-Choice-Pop-Latino-%28HD%29.m3u8
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/music-choice-tropicales.png" group-title="HD",Music Choice Tropicales (HD)
+https://live.nibbletv.info/CH/fsgJdFnSJTf/Music-Choice-Tropicales-%28HD%29.m3u8
